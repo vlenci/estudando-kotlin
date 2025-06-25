@@ -3,7 +3,7 @@ package variables
 import java.util.Locale
 import java.util.Scanner
 
-fun main () {
+fun main() {
 
     // EXERCÍCIO 1 — Conversor de Temperatura
     // Crie um programa que leia uma temperatura em Celsius informada pelo usuário,
@@ -12,7 +12,7 @@ fun main () {
     // Exiba o resultado formatado como número decimal.
 
     val k1: Int = 32
-    val k2: Double = 9.0/5
+    val k2: Double = 9.0 / 5
 
     val tempCelsius: Double = readln().toDouble()
     val tempFahrenheit: Double = tempCelsius * k2 + k1
