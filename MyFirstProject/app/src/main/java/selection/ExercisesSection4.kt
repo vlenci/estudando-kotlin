@@ -60,7 +60,7 @@ fun main () {
         '+' -> println(n1 + n2)
         '-' -> println(n1 - n2)
         '*' -> println(n1 * n2)
-        '/' -> if(n1 != 0.0 && n2 != 0.0){println((n1 / n2))}
+        '/' -> if(n2 != 0.0){println((n1 / n2))}
         else -> println("Operador invalido")
     }
 
