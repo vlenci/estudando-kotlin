@@ -1,6 +1,4 @@
-package oo
-
-import kotlin.random.Random
+package oo.classes
 
 class CharGenerator(
     val intervalBegin: Char,

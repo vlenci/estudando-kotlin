@@ -1,4 +1,4 @@
-package oo
+package oo.classes
 
 class Account(
     val accountNumber: String,

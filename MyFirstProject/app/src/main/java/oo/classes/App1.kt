@@ -1,4 +1,4 @@
-package oo
+package oo.classes
 
 fun main() {
     val ac1 = Account("1234-1", "Jota")

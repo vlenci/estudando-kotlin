@@ -1,4 +1,4 @@
-package functions
+package oo.classes
 
 class Person(
     private val nome: String

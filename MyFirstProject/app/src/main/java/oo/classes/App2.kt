@@ -1,4 +1,4 @@
-package functions
+package oo.classes
 
 fun main() {
     val p1 = Person("Lenci")

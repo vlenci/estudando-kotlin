@@ -1,4 +1,4 @@
-package functions
+package oo.classes
 
 class Smartphone (
     private var model: String,
