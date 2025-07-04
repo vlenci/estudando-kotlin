@@ -4,7 +4,7 @@ import projects.employeemanagment.utils.Company
 
 var id: Int = 1
 
-open class Employee(
+abstract class Employee(
     private val name: String,
     private val cpf: String,
     private var baseSalary: Double,
